@@ -1,0 +1,15 @@
+Origin: DanielR
+
+Label: DanielR
+
+Suite: stable
+
+Version: 0.1.0
+
+Codename: repo
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Repository DanielR
