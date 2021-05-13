@@ -6,7 +6,6 @@ Filename: deb/com.danielr.NiceCircle.deb
 Section: Theme
 Description: A nice circle theme to beautify your home screen.
 Author: DanielR
-Icon: file:///Library/Themes/NiceCircle.theme/Icon.png
 Name: Nice Circle
 Size: 42860594
 MD5sum: 7b008722033e00e1b04a226c2f09ed53
