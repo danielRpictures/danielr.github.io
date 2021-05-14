@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: DanielR<mailto:drproduc.03@gmail.com>
 Filename: deb/com.danielr.NiceCircle.deb
-Section: Theme
+Section: Themes
 Icon: /Library/Themes/Nice Circle.theme/Icon.png
 Description: A nice circle theme to beautify your home screen.
 Author: DanielR
