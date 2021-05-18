@@ -1,0 +1,41 @@
+<package>
+	<id>com.danielr.NiceCircle</id>
+	<name>Nice Circle</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>SnowBoard, Anemone, iThemer</package>
+	</dependencies>
+	<shortDescription>A Nice Circle theme to beautify your home screen.</shortDescription>
+	<descriptionlist>
+		<description>Eng:
+Nice Circle is a stylish theme to beautify your home screen.
+Nice Circle has more than 200 icons and 3 different styles for the UI Badge
+that are consistent with the theme.
+        </description>
+		<description>Esp:
+Nice Circle es un elegante tema para embellecer tu pantalla de inicio.
+Nice Circle cuanta con más de 200 iconos y 3 estilos diferentes para los UI Badge
+que van acorde con el tema.
+        </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>bnc.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>nc1.jpeg</image>
+		</screenshot>
+        <screenshot>
+			<image>nc2.jpeg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Cambios</change>
+		<change>Settings UI icons have been added</change>
+	</changelog>
+</package>
