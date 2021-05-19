@@ -1,6 +1,6 @@
-Origin: DanielR
+Origin: DanielRPictures
 
-Label: DanielR
+Label: DanielRPictures
 
 Suite: stable
 
@@ -12,4 +12,4 @@ Architectures: iphoneos-arm
 
 Components: main
 
-Description: Repository DanielR
+Description: Repository DanielRPictures
