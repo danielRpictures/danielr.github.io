@@ -1,9 +1,14 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Sigueme en Twitter</name>
+			<name>Twitter</name>
 			<url>https://twitter.com/DanielRpictures</url>
 			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Telegram</name>
+			<url>https://t.me/DanielRpictures</url>
+			<iconclass>fab fa-telegram-plane</iconclass>
 		</link>
 	</footerlinks>
 </repo>
