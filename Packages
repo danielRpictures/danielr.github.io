@@ -13,17 +13,3 @@ MD5sum: 7b008722033e00e1b04a226c2f09ed53
 SHA1: e5e5d0474297b4b31ba37215d0c321a001718cab
 SHA256: 27f3d509d650b165efbbe7eea16d51cc5681f7b70e2eec999c5a75df1b838495
 Depiction: https://danielrpictures.github.io/depictions/?p=com.danielr.NiceCircle
-
-Package: com.mrgcgamer.colormecc
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: DanielR<mailto:drproduc.03@gmail.com>
-Filename: https://mega.nz/file/LYVkVBhB#chHM-XO8TUvQraYyvLZrEtbxD2VK9JsjmPxa4UaTiQE
-Section: Themes
-Author: MrGcGamer
-Name: ColorMeCC
-Description: Color the CC to your liking!
-Size: 1584654
-MD5sum: 4195d6c3208bd4909914182e53cb1a1a
-SHA1: 18087cb92c51ceb3adeaba8a7e5857599d981055
-SHA256: 4b97cebfe0f42679b8ebaa10d02edc77978fe6c10f4b51d134bf29b012b76651
