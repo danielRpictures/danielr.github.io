@@ -1,0 +1,31 @@
+<package>
+	<id>com.danielr.gOS</id>
+	<name>gOS</name>
+	<version>0.1beta</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.3</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>SnowBoard, Anemone, iThemer</package>
+	</dependencies>
+	<shortDescription>doodle your home screen with gOS.</shortDescription>
+	<descriptionlist>
+		<description>Eng:
+Colorful theme with lines in scribble shapes, it will make your home screen sparkle spectacular.
+        </description>
+		<description>Esp:
+Colorido tema con trazos en formas de garabatos, hará que tu pantalla de inicio reluzca espectaluar.
+        </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>Icon.png</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>initial beta with 24 icons</change>
+	</changelog>
+</package>
