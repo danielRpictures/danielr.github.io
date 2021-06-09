@@ -15,7 +15,7 @@ SHA256: af32d49d254106675f383baa1295f53f491bc7d27facdacdd2cc8262e1b03bb1
 Depiction: https://danielrpictures.github.io/depictions/?p=com.danielr.NiceCircle
 
 Package: com.danielr.gOS
-Version: 0.2beta
+Version: 0.3beta
 Architecture: iphoneos-arm
 Maintainer: DanielR<mailto:drproduc.03@gmail.com>
 Filename: deb/com.danielr.gOS.deb
@@ -24,8 +24,8 @@ Icon: https://danielrpictures.github.io/depictions/com.danielr.gOS/screenshots/I
 Author: DanielR
 Name: gOS
 Description: doodle your home screen with gOS.
-Size: 15926642
-MD5sum: e6e20e4a46e3b9099ef9795e249ea59b
-SHA1: 183576d8d62b94347e75766cf4e881e2869f18fd
-SHA256: df13140c95620eb19d17b505d58ec7bc824643542c396914c642f67318586f32
+Size: 21539006
+MD5sum: efb91df25d60c6351f88b5e5eface965
+SHA1: b404aae750f0a215662707d8b1afb261cc6b0a31
+SHA256: 51c62b005f23ca7247bf0a3a838d68482c446dac68a03d314719ef38bf05398b
 Depiction: https://danielrpictures.github.io/depictions/?p=com.danielr.gOS
