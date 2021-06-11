@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+		<version>1.0.0</version>
+		<change>gOS 1.0.0 official release with 102 custom icons</change>
+	</changes>
+    <changes>
 		<version>0.3beta</version>
 		<change>0.2beta added 22 more icons</change>
 	</changes>
