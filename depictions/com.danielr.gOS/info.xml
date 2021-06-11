@@ -1,6 +1,6 @@
 <package>
 	<id>com.danielr.gOS</id>
-	<name text-align: center;>gOS</name>
+	<name>gOS</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -11,7 +11,7 @@
 	<dependencies>
 		<package>SnowBoard, Anemone, iThemer</package>
 	</dependencies>
-	<shortDescription text-align: center;>doodle your home screen with gOS.</shortDescription>
+	<shortDescription>doodle your home screen with gOS.</shortDescription>
 	<descriptionlist>
 		<description>Eng:
 Colorful theme with lines in scribble shapes, it will make your home screen sparkle spectacular.
