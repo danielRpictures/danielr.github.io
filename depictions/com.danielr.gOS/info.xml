@@ -10,9 +10,7 @@
 	</compatibility>
 	<dependencies>
 		<package>
-		•SnowBoard
-		•Anemone
-		•iThemer
+		SnowBoard, Anemone, iThemer
 		</package>
 	</dependencies>
 	<shortDescription>doodle your home screen with gOS.</shortDescription>
