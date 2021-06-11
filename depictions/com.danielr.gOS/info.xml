@@ -9,7 +9,12 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>SnowBoard, Anemone, iThemer</package>
+		<package>
+		</package>
+		<li>SnowBoard</li>
+		<li>Anemone</li>
+		<li>iThemer</li>
+		</package>
 	</dependencies>
 	<shortDescription>doodle your home screen with gOS.</shortDescription>
 	<descriptionlist>
