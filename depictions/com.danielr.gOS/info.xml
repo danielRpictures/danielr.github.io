@@ -34,6 +34,10 @@ Colorido tema con trazos en formas de garabatos, hará que tu pantalla de inicio
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>gOS 1.0.0 official release with 102 custom icons</change>
+		<change>
+		*45 new icons have been added.
+		<br>
+		*Added 3 styles of badge.
+		</change>
 	</changelog>
 </package>
