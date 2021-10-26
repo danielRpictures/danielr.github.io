@@ -29,3 +29,19 @@ MD5sum: cf56676043c562f9ef94ca33be70a99f
 SHA1: 7a79a2e95f5b1db00eb4c74947d4c74d3de38aef
 SHA256: 48d23c91b0b2da1e8acdba874dce8da705bf13efbe987fa6154f933231db4967
 Depiction: https://danielrpictures.github.io/depictions/?p=com.danielr.gOS
+
+Package: com.danielr.cydia15
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: DanielR<mailto:drproduc.03@gmail.com>
+Filename: deb/com.danielr.cydia15.deb
+Section: Themes
+Icon: https://danielrpictures.github.io/depictions/com.danielr.cydia15/screenshots/Icon.png
+Author: DanielR
+Name: Cydia15
+Description: Cydia icon inspired by iOS15
+Size: 10604544
+MD5sum: b4571ecd0646c841d37e709212b2217d
+SHA1: 55a91ba6db949ed6b77391270008d44a3157563d
+SHA256: 22fb827fba083ce06aa14234422e0eee2cccc6aa877ab4353da23210fcd3edbc
+Depiction: https://danielrpictures.github.io/depictions/?p=com.danielr.cydia15

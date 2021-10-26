@@ -1,0 +1,47 @@
+<package>
+	<id>com.danielr.cydia15</id>
+	<name>Cydia15</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.8</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>
+		SnowBoard, Anemone, iThemer
+		</package>
+	</dependencies>
+	<shortDescription>Cydia icon inspired by iOS15</shortDescription>
+	<descriptionlist>
+		<description>Eng:
+Cydia icon inspired by iOS15
+        </description>
+		<description>Esp:
+Icono de Cydia Inspirado en iOS15
+        </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>Icon.png</image>
+		</screenshot>
+		<screenshot>
+			<image>01.png</image>
+		</screenshot>
+		<screenshot>
+			<image>02.png</image>
+		</screenshot>
+		<screenshot>
+			<image>03.png</image>
+		</screenshot>
+		<screenshot>
+			<image>04.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>
+		iOS15 inspired 4 Icon Pack for Cydia
+		</change>
+	</changelog>
+</package>
